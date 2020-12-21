@@ -1,0 +1,50 @@
+{
+	"area" : 
+	[
+		{
+			"active" : "forbid",
+			"forbidType" : "all",
+			"id" : 0,
+			"mode" : "default",
+			"name" : "",
+			"tag" : "ForbidRoom1",
+			"vertexs" : 
+			[
+				[
+					-725,
+					-225
+				],
+				[
+					1475,
+					-225
+				],
+				[
+					1475,
+					-1825
+				],
+				[
+					-725,
+					-1825
+				]
+			]
+		}
+	],
+	"autoAreaId" : 0,
+	"base64_len" : 632,
+	"chargeHandlePhi" : 2259,
+	"chargeHandlePos" : 
+	[
+		134,
+		1342
+	],
+	"chargeHandleState" : "find",
+	"height" : 63,
+	"lz4_len" : 474,
+	"map" : "H38BAP///xgfAAEABg9CAx8+AAD/AQABFQAPTgAgMP8A/wMADwIAAQ+bAB8//wAATQBTD5sAHg+aAAgv///oAB0PTQAHHwCCASQQf4cADAIAD+UAHgGbAA9MAAMPTQAlDJQAAgIAD+YAIB9/GQIFD+gAIg9NADoBOwMPAgACDzUBIQ80AQUPggEiD00A/3AFggELVwMPGwIhFX9NAAsCAA9NACEPtgIGD00AIguRAAUCAA9NAC0YAJAED00AKwBCBwWYAA9NACcFRQAIjQEPmgAkBUwACQIAD00AJA8CAAMPTQByCCsBBQIAD5oAJQ9NAC4AUwIkAACbAw+EAQAPmgADDxYABAHQAA+eBh4DxQABdAcFAgAFiwADHgAOAgAPhAAJAAIABEsAJf8ATAAP6wYdD3wABgECAA8eAAYPmgANDwIAAQ9NAB4D3wAApQgDCwAAGQgCWwAA3wMG9QAHAgAPmgAFAT0ACwIABDcAAUkAAJ8AAAQACAIAD7oIEgGIAQY2AAFEABgAkwEEAgAPmwADCAIAAVwCBC8ABQIAAHQLAVYACAIAD00ADgAgAQEFAAACAAg6AAsCAAAdAA9NAA4IAgAAUAAPAgAKCC0ADwIA///qUH9/f39/",
+	"mapId" : 1595944249,
+	"pathId" : 1596015929,
+	"resolution" : 0.05000000074505806,
+	"width" : 77,
+	"x_min" : -2.3749997615814209,
+	"y_min" : -1.1755445003509521
+}
